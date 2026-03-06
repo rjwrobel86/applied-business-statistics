@@ -1,0 +1,22 @@
+# macOS junk
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.envrc
+
+# Editor settings
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.logrepo 
