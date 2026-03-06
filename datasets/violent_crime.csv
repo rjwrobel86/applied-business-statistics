@@ -1,0 +1,41 @@
+city,state,region,violent_crime_per_100k,poverty_rate_pct,unemployment_rate_pct,police_per_100k,pct_males_15_29,alcohol_outlets_per_10k,housing_vacancy_rate_pct,gini_index
+New York,NY,Northeast,80.0,15.0,5.7,120,10.9,14.8,5.7,0.384
+Los Angeles,CA,West,80.0,16.5,5.9,172,11.2,13.4,7.0,0.366
+Chicago,IL,Midwest,80.0,13.6,2.8,163,12.7,15.1,5.0,0.365
+Houston,TX,South,80.0,10.5,5.0,168,11.6,1.8,6.8,0.358
+Phoenix,AZ,West,80.0,12.7,7.9,196,11.6,9.6,5.7,0.357
+Philadelphia,PA,Northeast,80.0,10.0,2.0,182,9.0,14.3,5.4,0.348
+San Antonio,TX,South,80.0,15.3,7.3,120,12.0,4.2,6.1,0.398
+San Diego,CA,West,80.0,21.7,6.7,120,10.9,19.0,7.8,0.385
+Dallas,TX,South,80.0,12.5,3.8,169,14.8,5.8,7.1,0.389
+San Jose,CA,West,80.0,11.9,9.0,125,13.8,20.4,6.7,0.357
+Austin,TX,South,80.0,17.4,7.4,151,12.0,8.4,6.7,0.4
+Jacksonville,FL,South,80.0,16.8,3.4,173,13.5,20.7,4.1,0.391
+Fort Worth,TX,South,80.0,15.5,5.7,120,11.1,16.5,6.7,0.389
+Columbus,OH,Midwest,80.0,10.3,6.0,120,14.6,4.5,6.2,0.368
+Charlotte,NC,South,80.0,14.9,5.1,155,11.9,26.5,6.0,0.385
+San Francisco,CA,West,80.0,18.5,7.4,152,13.5,25.3,6.6,0.369
+Indianapolis,IN,Other,80.0,8.3,4.4,142,8.7,12.2,6.4,0.334
+Seattle,WA,West,80.0,12.7,6.5,149,12.9,11.4,5.9,0.349
+Denver,CO,West,80.0,5.5,7.0,124,7.8,14.7,4.7,0.329
+Washington,DC,West,80.0,8.6,3.2,120,7.0,9.8,4.4,0.343
+Boston,MA,Northeast,80.0,5.8,4.5,140,11.2,20.1,5.2,0.35
+El Paso,TX,West,80.0,13.8,4.4,124,9.7,14.2,6.6,0.354
+Nashville,TN,South,80.0,8.7,4.8,120,12.4,14.9,6.1,0.366
+Detroit,MI,Midwest,80.0,16.4,3.3,163,17.5,8.5,7.0,0.375
+Oklahoma City,OK,South,80.0,15.8,4.5,148,9.8,10.5,5.8,0.382
+Portland,OR,West,80.0,14.1,5.0,159,10.4,7.0,4.6,0.358
+Las Vegas,NV,West,80.0,5.0,5.8,123,12.5,19.4,5.8,0.34
+Memphis,TN,South,80.0,12.3,7.4,135,13.3,12.4,6.6,0.376
+Louisville,KY,South,80.0,14.8,2.8,125,11.4,17.2,4.3,0.389
+Baltimore,MD,Northeast,80.0,15.6,4.0,126,11.4,14.5,5.0,0.404
+Milwaukee,WI,Midwest,80.0,7.3,5.6,150,13.7,12.1,6.9,0.339
+Albuquerque,NM,West,80.0,12.6,2.0,130,13.1,10.5,6.3,0.34
+Tucson,AZ,West,80.0,10.1,3.8,157,9.3,12.3,4.7,0.342
+Fresno,CA,West,80.0,11.0,4.7,156,11.7,12.7,7.4,0.362
+Mesa,AZ,West,80.0,20.3,8.8,205,12.2,12.4,7.7,0.392
+Sacramento,CA,West,80.0,11.0,6.3,120,9.4,12.2,6.4,0.338
+Atlanta,GA,South,80.0,14.8,4.8,174,12.6,4.3,6.0,0.394
+Kansas City,MO,Midwest,80.0,19.4,5.4,151,9.8,9.1,5.7,0.383
+Omaha,NE,West,80.0,12.1,4.6,148,14.4,22.5,6.2,0.347
+St. Louis,MO,Midwest,80.0,14.4,8.5,120,12.6,11.6,8.3,0.353

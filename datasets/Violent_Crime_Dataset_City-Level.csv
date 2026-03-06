@@ -1,0 +1,41 @@
+city,state,region,violent_crime_per_100k,poverty_rate_pct,unemployment_rate_pct,police_per_100k,pct_males_15_29
+New York,NY,Northeast,80.0,15.0,5.7,120,10.9
+Los Angeles,CA,West,80.0,16.5,5.9,172,11.2
+Chicago,IL,Midwest,80.0,13.6,2.8,163,12.7
+Houston,TX,South,80.0,10.5,5.0,168,11.6
+Phoenix,AZ,West,80.0,12.7,7.9,196,11.6
+Philadelphia,PA,Northeast,80.0,10.0,2.0,182,9.0
+San Antonio,TX,South,80.0,15.3,7.3,120,12.0
+San Diego,CA,West,80.0,21.7,6.7,120,10.9
+Dallas,TX,South,80.0,12.5,3.8,169,14.8
+San Jose,CA,West,80.0,11.9,9.0,125,13.8
+Austin,TX,South,80.0,17.4,7.4,151,12.0
+Jacksonville,FL,South,80.0,16.8,3.4,173,13.5
+Fort Worth,TX,South,80.0,15.5,5.7,120,11.1
+Columbus,OH,Midwest,80.0,10.3,6.0,120,14.6
+Charlotte,NC,South,80.0,14.9,5.1,155,11.9
+San Francisco,CA,West,80.0,18.5,7.4,152,13.5
+Indianapolis,IN,Other,80.0,8.3,4.4,142,8.7
+Seattle,WA,West,80.0,12.7,6.5,149,12.9
+Denver,CO,West,80.0,5.5,7.0,124,7.8
+Washington,DC,West,80.0,8.6,3.2,120,7.0
+Boston,MA,Northeast,80.0,5.8,4.5,140,11.2
+El Paso,TX,West,80.0,13.8,4.4,124,9.7
+Nashville,TN,South,80.0,8.7,4.8,120,12.4
+Detroit,MI,Midwest,80.0,16.4,3.3,163,17.5
+Oklahoma City,OK,South,80.0,15.8,4.5,148,9.8
+Portland,OR,West,80.0,14.1,5.0,159,10.4
+Las Vegas,NV,West,80.0,5.0,5.8,123,12.5
+Memphis,TN,South,80.0,12.3,7.4,135,13.3
+Louisville,KY,South,80.0,14.8,2.8,125,11.4
+Baltimore,MD,Northeast,80.0,15.6,4.0,126,11.4
+Milwaukee,WI,Midwest,80.0,7.3,5.6,150,13.7
+Albuquerque,NM,West,80.0,12.6,2.0,130,13.1
+Tucson,AZ,West,80.0,10.1,3.8,157,9.3
+Fresno,CA,West,80.0,11.0,4.7,156,11.7
+Mesa,AZ,West,80.0,20.3,8.8,205,12.2
+Sacramento,CA,West,80.0,11.0,6.3,120,9.4
+Atlanta,GA,South,80.0,14.8,4.8,174,12.6
+Kansas City,MO,Midwest,80.0,19.4,5.4,151,9.8
+Omaha,NE,West,80.0,12.1,4.6,148,14.4
+St. Louis,MO,Midwest,80.0,14.4,8.5,120,12.6
