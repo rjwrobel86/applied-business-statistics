@@ -6,36 +6,36 @@ The notebooks are grouped by subject area and include both classroom examples an
 
 ## Areas Included
 
-- `apis`
-- `basics`
-- `causal-inference`
-- `data-prep`
-- `descriptive-statistics`
-- `diagnostics`
-- `economics`
-- `hypothesis-testing`
-- `intermediate-python`
-- `library-demos`
-- `machine-learning`
-- `natural-language-processing`
-- `probability`
-- `regression`
-- `simulation`
-- `time-series`
-- `tools`
-- `visualization`
-- `web`
+- [`apis`](apis/)
+- [`basics`](basics/)
+- [`causal-inference`](causal-inference/)
+- [`data-prep`](data-prep/)
+- [`descriptive-statistics`](descriptive-statistics/)
+- [`diagnostics`](diagnostics/)
+- [`economics`](economics/)
+- [`hypothesis-testing`](hypothesis-testing/)
+- [`intermediate-python`](intermediate-python/)
+- [`library-demos`](library-demos/)
+- [`machine-learning`](machine-learning/)
+- [`natural-language-processing`](natural-language-processing/)
+- [`probability`](probability/)
+- [`regression`](regression/)
+- [`simulation`](simulation/)
+- [`time-series`](time-series/)
+- [`tools`](tools/)
+- [`visualization`](visualization/)
+- [`web`](web/)
 
 ## Regression
 
-The `regression` folder is divided into:
+The [`regression`](regression/) folder is divided into:
 
-- `fundamentals`
-- `generalized-linear-models`
-- `regularization`
-- `panel-and-hierarchical`
-- `advanced-regression`
-- `bayesian`
+- [`fundamentals`](regression/fundamentals/)
+- [`generalized-linear-models`](regression/generalized-linear-models/)
+- [`regularization`](regression/regularization/)
+- [`panel-and-hierarchical`](regression/panel-and-hierarchical/)
+- [`advanced-regression`](regression/advanced-regression/)
+- [`bayesian`](regression/bayesian/)
 
 These notebooks include material on linear regression, logistic and count models, regularized regression, multilevel models, quantile and robust regression, survival analysis, and Bayesian approaches.
 
